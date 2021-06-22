@@ -70,15 +70,6 @@
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "icon",
-                "icon": "youtube",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
